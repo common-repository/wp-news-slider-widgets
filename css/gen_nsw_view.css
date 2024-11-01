@@ -1,0 +1,28 @@
+/* 
+    Document   : Wp Easy News Scroller admin styles
+    Created on : 12-March-2013, 16:55:34
+    Author     : 2013 @ http://solvercircle.com
+    Description: Adds custom styling to admin area
+*/
+
+.nsw_title_view{
+  font-weight:bold;
+  height:25px;
+  margin-top:10px;
+  padding: 0px 5px;
+}
+.nsw_des_view{
+  padding: 0px 5px 5px 5px;
+  
+}
+.slide2{
+  padding-bottom: 5px;
+  overflow: hidden;
+}
+#custom-pager span:hover{
+  cursor: pointer;
+}
+
+#custom-pager span{
+  font-size: 25px;
+}
